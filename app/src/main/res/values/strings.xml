@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="network_error">Oops! Unable to connect to the internet.Please try again later.</string>
+    <string name="invalid_state">Invalid State</string>
+    <string name="item_click">You clicked %s</string>
+    <string name="search_user">Search User</string>
+    <string name="search">Search</string>
+    <string name="empty_searched_text">Please enter a valid search query</string>
+</resources>
